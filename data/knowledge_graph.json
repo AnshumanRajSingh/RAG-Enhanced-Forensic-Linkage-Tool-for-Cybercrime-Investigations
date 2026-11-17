@@ -1,0 +1,757 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "node_type": "Evidence",
+      "source_type": "chat",
+      "timestamp": "2026-10-27T05:59:48.272126+00:00",
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.029687470449049076,
+      "id": "EV-CHAT-0001"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "chat",
+      "timestamp": "2026-10-27T05:59:48.272360+00:00",
+      "degree_centrality": 0.12121212121212122,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.025661960962301698,
+      "id": "EV-CHAT-0002"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "chat",
+      "timestamp": "2026-10-27T05:59:48.272366+00:00",
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.028596718150142166,
+      "id": "EV-CHAT-0003"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "chat",
+      "timestamp": "2026-10-27T05:59:48.272370+00:00",
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.0286800613811799,
+      "id": "EV-CHAT-0004"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "chat",
+      "timestamp": "2026-10-27T05:59:48.272373+00:00",
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.029815092573522415,
+      "id": "EV-CHAT-0005"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "chat",
+      "timestamp": "2026-10-27T05:59:48.272733+00:00",
+      "degree_centrality": 0.06060606060606061,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.01475562729956409,
+      "id": "EV-CHAT-0006"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "network",
+      "timestamp": "2026-03-10T14:12:00Z",
+      "degree_centrality": 0.030303030303030304,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.022672112620020377,
+      "id": "EV-NET-0001"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "network",
+      "timestamp": "2026-03-10T14:16:30Z",
+      "degree_centrality": 0.030303030303030304,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.022672112620020377,
+      "id": "EV-NET-0002"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "network",
+      "timestamp": "2026-03-10T14:20:00Z",
+      "degree_centrality": 0.030303030303030304,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.022672112620020377,
+      "id": "EV-NET-0003"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "network",
+      "timestamp": "2026-03-10T14:40:15Z",
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.004901960784313726,
+      "id": "EV-NET-0004"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "crypto",
+      "timestamp": "2026-03-10T15:00:00Z",
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.004901960784313726,
+      "id": "EV-CRYPTO-0001"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "crypto",
+      "timestamp": "2026-03-10T15:15:30Z",
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.004901960784313726,
+      "id": "EV-CRYPTO-0002"
+    },
+    {
+      "node_type": "Evidence",
+      "source_type": "crypto",
+      "timestamp": "2026-03-10T15:30:10Z",
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.004901960784313726,
+      "id": "EV-CRYPTO-0003"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "IP_ADDRESS",
+      "extractor": "regex",
+      "confidence": 1.0,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.029687470449049076,
+      "id": "203.0.113.88"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "IP_ADDRESS",
+      "extractor": "regex",
+      "confidence": 1.0,
+      "degree_centrality": 0.12121212121212122,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.025661960962301698,
+      "id": "198.51.100.45"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "CRYPTO_WALLET",
+      "extractor": "regex",
+      "confidence": 1.0,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.028596718150142166,
+      "id": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "CRYPTO_WALLET",
+      "extractor": "regex",
+      "confidence": 1.0,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.0286800613811799,
+      "id": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "CRYPTO_WALLET",
+      "extractor": "regex",
+      "confidence": 1.0,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.029815092573522415,
+      "id": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "THREAT_ACTOR",
+      "extractor": "gliner",
+      "confidence": 0.593,
+      "degree_centrality": 0.30303030303030304,
+      "betweenness_centrality": 0.1893939393939394,
+      "pagerank": 0.05409447852712823,
+      "id": "DarkKni9ht"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "THREAT_ACTOR",
+      "extractor": "gliner",
+      "confidence": 0.609,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.002840909090909091,
+      "pagerank": 0.03681033957096769,
+      "id": "Viper_Sec"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "THREAT_ACTOR",
+      "extractor": "gliner",
+      "confidence": 0.402,
+      "degree_centrality": 0.12121212121212122,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.025661960962301698,
+      "id": "viper_dev"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "CRYPTO_WALLET",
+      "extractor": "gliner",
+      "confidence": 0.623,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.028596718150142166,
+      "id": "primary vault"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "THREAT_ACTOR",
+      "extractor": "gliner",
+      "confidence": 0.589,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.0286800613811799,
+      "id": "Phantom_X"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "CRYPTO_WALLET",
+      "extractor": "gliner",
+      "confidence": 0.432,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.0286800613811799,
+      "id": "mixer wallet"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "CRYPTO_WALLET",
+      "extractor": "gliner",
+      "confidence": 0.647,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.029815092573522415,
+      "id": "Backup ETH wallet"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "DATE",
+      "extractor": "spacy",
+      "confidence": 1.0,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.029687470449049076,
+      "id": "2026-03-10T14:15:22Z"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "ORG",
+      "extractor": "spacy",
+      "confidence": 1.0,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.029687470449049076,
+      "id": "MB"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "ORG",
+      "extractor": "spacy",
+      "confidence": 1.0,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.029687470449049076,
+      "id": "HTTPS"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "DATE",
+      "extractor": "spacy",
+      "confidence": 1.0,
+      "degree_centrality": 0.4545454545454546,
+      "betweenness_centrality": 0.33428030303030304,
+      "pagerank": 0.08731987163240941,
+      "id": "2026-03"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "DATE",
+      "extractor": "spacy",
+      "confidence": 1.0,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.028596718150142166,
+      "id": "2026-03-10T14:22:40Z"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "ORG",
+      "extractor": "spacy",
+      "confidence": 1.0,
+      "degree_centrality": 0.30303030303030304,
+      "betweenness_centrality": 0.2840909090909091,
+      "pagerank": 0.05308706945925905,
+      "id": "BTC"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "ORG",
+      "extractor": "spacy",
+      "confidence": 1.0,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.029815092573522415,
+      "id": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F. Darknet"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "ORG",
+      "extractor": "spacy",
+      "confidence": 1.0,
+      "degree_centrality": 0.15151515151515152,
+      "betweenness_centrality": 0.0,
+      "pagerank": 0.029815092573522415,
+      "id": "c2.shadow-vault.tech"
+    },
+    {
+      "node_type": "Entity",
+      "entity_type": "ORG",
+      "extractor": "spacy",
+      "confidence": 1.0,
+      "degree_centrality": 0.09090909090909091,
+      "betweenness_centrality": 0.005681818181818182,
+      "pagerank": 0.06270261638830486,
+      "id": "TCP"
+    }
+  ],
+  "edges": [
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0001",
+      "target": "203.0.113.88"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0001",
+      "target": "DarkKni9ht"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0001",
+      "target": "2026-03-10T14:15:22Z"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0001",
+      "target": "MB"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0001",
+      "target": "HTTPS"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0002",
+      "target": "198.51.100.45"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0002",
+      "target": "Viper_Sec"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0002",
+      "target": "viper_dev"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0002",
+      "target": "2026-03"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0003",
+      "target": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0003",
+      "target": "DarkKni9ht"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0003",
+      "target": "primary vault"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0003",
+      "target": "2026-03-10T14:22:40Z"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0003",
+      "target": "BTC"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0004",
+      "target": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0004",
+      "target": "Phantom_X"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0004",
+      "target": "mixer wallet"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0004",
+      "target": "2026-03"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0004",
+      "target": "BTC"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0005",
+      "target": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0005",
+      "target": "Backup ETH wallet"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0005",
+      "target": "2026-03"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0005",
+      "target": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F. Darknet"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0005",
+      "target": "c2.shadow-vault.tech"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0006",
+      "target": "Viper_Sec"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-CHAT-0006",
+      "target": "2026-03"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-NET-0001",
+      "target": "TCP"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-NET-0002",
+      "target": "TCP"
+    },
+    {
+      "relation": "MENTIONED_IN",
+      "source": "EV-NET-0003",
+      "target": "TCP"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "203.0.113.88",
+      "target": "MB"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "203.0.113.88",
+      "target": "2026-03-10T14:15:22Z"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "203.0.113.88",
+      "target": "HTTPS"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "203.0.113.88",
+      "target": "DarkKni9ht"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "198.51.100.45",
+      "target": "2026-03"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "198.51.100.45",
+      "target": "viper_dev"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "198.51.100.45",
+      "target": "Viper_Sec"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "target": "BTC"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "target": "primary vault"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "target": "DarkKni9ht"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "target": "2026-03-10T14:22:40Z"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+      "target": "BTC"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+      "target": "Phantom_X"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+      "target": "2026-03"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+      "target": "mixer wallet"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F",
+      "target": "Backup ETH wallet"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F",
+      "target": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F. Darknet"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F",
+      "target": "2026-03"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F",
+      "target": "c2.shadow-vault.tech"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "DarkKni9ht",
+      "target": "MB"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "DarkKni9ht",
+      "target": "2026-03-10T14:15:22Z"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "DarkKni9ht",
+      "target": "HTTPS"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "DarkKni9ht",
+      "target": "BTC"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "DarkKni9ht",
+      "target": "primary vault"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "DarkKni9ht",
+      "target": "2026-03-10T14:22:40Z"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 2,
+      "source": "Viper_Sec",
+      "target": "2026-03"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "Viper_Sec",
+      "target": "viper_dev"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "viper_dev",
+      "target": "2026-03"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "primary vault",
+      "target": "BTC"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "primary vault",
+      "target": "2026-03-10T14:22:40Z"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "Phantom_X",
+      "target": "BTC"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "Phantom_X",
+      "target": "2026-03"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "Phantom_X",
+      "target": "mixer wallet"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "mixer wallet",
+      "target": "BTC"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "mixer wallet",
+      "target": "2026-03"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "Backup ETH wallet",
+      "target": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F. Darknet"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "Backup ETH wallet",
+      "target": "2026-03"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "Backup ETH wallet",
+      "target": "c2.shadow-vault.tech"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "2026-03-10T14:15:22Z",
+      "target": "MB"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "2026-03-10T14:15:22Z",
+      "target": "HTTPS"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "MB",
+      "target": "HTTPS"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "2026-03",
+      "target": "BTC"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "2026-03",
+      "target": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F. Darknet"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "2026-03",
+      "target": "c2.shadow-vault.tech"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "2026-03-10T14:22:40Z",
+      "target": "BTC"
+    },
+    {
+      "relation": "CO_OCCURRED_WITH",
+      "weight": 1,
+      "source": "0x71C7656EC7ab88b098defB751B7401B5f6d8976F. Darknet",
+      "target": "c2.shadow-vault.tech"
+    }
+  ]
+}

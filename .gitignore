@@ -4,4 +4,4 @@ __pycache__/
 .venv/
 .vscode/
 neo4j_data/
-qdrant_data/
+qdrant_data/lib/
